@@ -1,3 +1,51 @@
+
+
+
+**Terms**
+
+- This is a test project, based on which we will evaluate to assign the actual billed project phases. **The test project will not be billed and is expected to be completed in under 2 hours.**
+- We are looking for a productive collaboration with multiple features in the pipeline if the test project evaluation is successful.
+- The expected time to complete is under 2 hours
+- You will be given access to an existing repo of an admin template will all the necessary UI elements already provided
+- You are expected to implement the feature using the already provided UI elements/kit from the admin template repo
+
+**GitHub** **Repo**: [https://github.com/iamport-intl/admin-template](https://github.com/iamport-intl/admin-template)
+
+**Problem statement**
+
+- Build frontend in Vue.js for the requirement
+- Use the Vuejs Admin template that we provide
+- **Implement the feature and raise pull request (PR) against the above repo**
+- **We will review the PR and get back to you**
+
+**Basic CRUD page** - **High-Level Requirements**
+
+- A CRUD page to create payment links - Refer to the screenshot
+    - CRUD page will have a table - the table will show a list of created payment links
+    - A 'Create' Action on the top right
+    - Create Action will open a modal for payment link creation
+    - Templates to use
+        - Table templates demo - [https://coreui.io/vue/demo/free/3.1.1/#/base/tables](https://coreui.io/vue/demo/free/3.1.1/#/base/tables)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d96b867-a904-45b4-b1d8-9653d959a967/Screenshot_2021-07-08_at_1.03.38_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d96b867-a904-45b4-b1d8-9653d959a967/Screenshot_2021-07-08_at_1.03.38_PM.png)
+
+- Modal for payment link creation - Refer to the screenshot
+    - Amount field - validation with only positive decimal numbers - required field
+    - Currency drop-down - required fields
+    - Customer name, email, and phone fields with email and phone validations - optional fields
+    - **Ignore other fields in the Screenshot - need not implement those**
+    - After creation, the payment link should be added to the table
+        - Only update the vuex store
+        - Need not use any backend
+    - Payment links are only created. No need to provide an update or delete operations
+    - Templates to use
+        - Form samples - [https://coreui.io/vue/demo/free/3.1.1/#/base/forms](https://coreui.io/vue/demo/free/3.1.1/#/base/forms)
+        - Modal dialogs - [https://coreui.io/vue/demo/free/3.1.1/#/notifications/modals](https://coreui.io/vue/demo/free/3.1.1/#/notifications/modals)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51af0f5f-7a20-467d-9940-2c4e3e930a03/Screenshot_2021-07-08_at_1.03.46_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51af0f5f-7a20-467d-9940-2c4e3e930a03/Screenshot_2021-07-08_at_1.03.46_PM.png)
+
+
+
 # CoreUI Free Vue Bootstrap Admin Template
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%20Vue%20Admin%20Template%20&url=http://coreui.io/vue/&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
