@@ -1,10 +1,7 @@
-
-
+# Test Project - Implement a Modal form save and addition of entry to a Table
 
 **Terms**
 
-- This is a test project, based on which we will evaluate to assign the actual billed project phases. **The test project will not be billed and is expected to be completed in under 2 hours.**
-- We are looking for a productive collaboration with multiple features in the pipeline if the test project evaluation is successful.
 - The expected time to complete is under 2 hours
 - You will be given access to an existing repo of an admin template will all the necessary UI elements already provided
 - You are expected to implement the feature using the already provided UI elements/kit from the admin template repo
@@ -27,7 +24,6 @@
     - Templates to use
         - Table templates demo - [https://coreui.io/vue/demo/free/3.1.1/#/base/tables](https://coreui.io/vue/demo/free/3.1.1/#/base/tables)
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d96b867-a904-45b4-b1d8-9653d959a967/Screenshot_2021-07-08_at_1.03.38_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d96b867-a904-45b4-b1d8-9653d959a967/Screenshot_2021-07-08_at_1.03.38_PM.png)
 
 - Modal for payment link creation - Refer to the screenshot
     - Amount field - validation with only positive decimal numbers - required field
@@ -42,7 +38,6 @@
         - Form samples - [https://coreui.io/vue/demo/free/3.1.1/#/base/forms](https://coreui.io/vue/demo/free/3.1.1/#/base/forms)
         - Modal dialogs - [https://coreui.io/vue/demo/free/3.1.1/#/notifications/modals](https://coreui.io/vue/demo/free/3.1.1/#/notifications/modals)
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51af0f5f-7a20-467d-9940-2c4e3e930a03/Screenshot_2021-07-08_at_1.03.46_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51af0f5f-7a20-467d-9940-2c4e3e930a03/Screenshot_2021-07-08_at_1.03.46_PM.png)
 
 
 
