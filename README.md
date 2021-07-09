@@ -132,19 +132,6 @@ CoreUI tools documentation:
 - Styles documentation: [CoreUI styles](https://coreui.io/docs/3.0-beta/)
 - Icons documentation: [CoreUI Icons](http://coreui.io/icons)
 
-### Bugs and feature requests
-
-Have a bug or a feature request? [Please open a new issue](https://github.com/coreui/coreui-free-vue-admin-template/issues).
-
-### Contributing
-
-Please read through our [contributing guidelines](https://github.com/coreui/coreui-free-vue-admin-template/blob/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-### Versioning
-
-For transparency into our release cycle and in striving to maintain backward compatibility,CoreUI Free Admin Template is maintained under [the Semantic Versioning guidelines](http://semver.org/).
-
-See [the Releases section of our project](https://github.com/coreui/coreui-free-vue-admin-template/releases) for changelogs for each release version.
 
 
 ## Copyright and license
@@ -152,6 +139,3 @@ See [the Releases section of our project](https://github.com/coreui/coreui-free-
 Copyright 2020 creativeLabs Łukasz Holeczek. Code released under [the MIT license](https://github.com/coreui/coreui-free-vue-admin-template/blob/master/LICENSE).
 There is only one limitation - you cannot re-distribute the `CoreUI` as stock nor if you modify the `CoreUI`. In the past we faced some problems with persons who tried to sell `CoreUI` based templates.
 
-## Support CoreUI Development
-
-CoreUI is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying [PRO version](https://coreui.io/pro/).
