@@ -88,13 +88,7 @@ A fully functional demo is available at [CoreUI](http://coreui.io/vue/)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
-- [Our other products](#our-other-products)
-- [Community](#community)
-- [Community Projects](#community-projects)
 - [License](#copyright-and-license)
-- [Support CoreUI Development](#support-coreui-development)
 
 ### Installation
 
@@ -155,47 +149,6 @@ For transparency into our release cycle and in striving to maintain backward com
 
 See [the Releases section of our project](https://github.com/coreui/coreui-free-vue-admin-template/releases) for changelogs for each release version.
 
-### Our other products
-
-CoreUI is built on top of Bootstrap 4 and supports popular frameworks.
-
-#### Free version products
-
-* [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
-* [CoreUI Free Angular Admin Template](https://github.com/coreui/coreui-free-angular-admin-template)
-* [CoreUI Free Laravel Admin Template](https://github.com/coreui/coreui-free-laravel-admin-template)
-* [CoreUI Free React.js Admin Template](https://github.com/coreui/coreui-free-react-admin-template)
-* [CoreUI Free Vue.js Admin Template](https://github.com/coreui/coreui-free-vue-admin-template)
-* [CoreUI Free Vue.js + Laravel Admin Template](https://github.com/coreui/coreui-free-vue-laravel-admin-template)
-
-#### Pro version products
-
-* 💪  [CoreUI Pro Bootstrap Admin Template](https://coreui.io/pro/)
-* 💪  [CoreUI Pro Angular Admin Template](https://coreui.io/pro/angular)
-* 💪  [CoreUI Pro Laravel Admin Template](https://coreui.io/pro/laravel)
-* 💪  [CoreUI Pro React Admin Template](https://coreui.io/pro/react)
-* 💪  [CoreUI Pro Vue Admin Template](https://coreui.io/pro/vue)
-* 💪  [CoreUI Pro Vue + Laravel Admin Template](https://coreui.io/pro/vue-laravel)
-
-## CoreUI PRO Vue.js Admin Templates
-
-| Default Theme | Legacy Theme | Dark Layout |
-| --- | --- | --- |
-| [![CoreUI Pro Bootstrap Admin Template](https://coreui.io/images/mockups/mockup_3_1_default.png)](https://coreui.io/pro/vue/) | [![CoreUI Pro Bootstrap Admin Template](https://coreui.io/images/mockups/mockup_3_1_legacy.png)](https://coreui.io/pro/vue/)| [![CoreUI Pro Bootstrap Admin Template](https://coreui.io/images/mockups/mockup_3_1_dark.png)](https://coreui.io/pro/vue/)
-
-## Community
-
-Get updates on CoreUI's development and chat with the project maintainers and community members.
-
-- Follow [@core_ui on Twitter](https://twitter.com/core_ui).
-- Read and subscribe to [CoreUI Blog](https://coreui.ui/blog/).
-
-### Community Projects
-
-Some of projects created by community but not maintained by CoreUI team.
-
-- [NuxtJS + Vue CoreUI](https://github.com/muhibbudins/nuxt-coreui)
-- [Colmena](https://github.com/colmena/colmena)
 
 ## Copyright and license
 
