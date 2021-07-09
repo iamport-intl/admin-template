@@ -23,7 +23,8 @@
     - Create Action will open a modal for payment link creation
     - Templates to use
         - Table templates demo - [https://coreui.io/vue/demo/free/3.1.1/#/base/tables](https://coreui.io/vue/demo/free/3.1.1/#/base/tables)
-
+    - Screenshot
+        ![Payment Links Table](https://chaipay-test-project-files.s3.ap-southeast-1.amazonaws.com/test-project-payment-links-table.png)
 
 - Modal for payment link creation - Refer to the screenshot
     - Amount field - validation with only positive decimal numbers - required field
@@ -37,7 +38,8 @@
     - Templates to use
         - Form samples - [https://coreui.io/vue/demo/free/3.1.1/#/base/forms](https://coreui.io/vue/demo/free/3.1.1/#/base/forms)
         - Modal dialogs - [https://coreui.io/vue/demo/free/3.1.1/#/notifications/modals](https://coreui.io/vue/demo/free/3.1.1/#/notifications/modals)
-
+    - Screenshot
+        ![Payment Links Modal](https://chaipay-test-project-files.s3.ap-southeast-1.amazonaws.com/test-project-payment-links-modal.png)
 
 
 
